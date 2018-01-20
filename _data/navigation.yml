@@ -1,0 +1,7 @@
+# main links
+main:
+  - title: "Categorie 1"
+    url: /cat1/
+  - title: "Categorie 2"
+    url: /cat2/
+
